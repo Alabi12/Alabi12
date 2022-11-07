@@ -43,8 +43,8 @@ I have been learning programming for the past two years after switching a career
 
 ### Recent Projects
 Find the link to the projects i have buuld recently for your reference.
--  To Do List. https://alabi12.github.io/To-Do-List/
-- Awesome Books.  https://alabi12.github.io/Awesome-Books-ES6/
+-  To Do List. This is a simple project that allow the user to develop the Todo List. The data is persisted in the local storage. This App was built using HTML, CSS, JavaScript. https://alabi12.github.io/To-Do-List/
+- Awesome Books. This is a project that takes in a new book by a user, store to the local storage and display on the browser. The user also has the opportunity to edit and delete the books stored. This App was built using HTML, CSS, JavaScrip. https://alabi12.github.io/Awesome-Books-ES6/
 
 ### Socials
 
