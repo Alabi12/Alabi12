@@ -22,9 +22,9 @@ Software Developer
 
 I have been learning programming for the past two years after switching a career in Finance, Audit. After learning HTML, CSS and JavaScript, i found an interest to be a Full Stack Developer.
 
-* 🌍  I'm based in Ghana, Accra
+* 🌍  I'm based in Ghana, Accra.
 * 🖥️  See my portfolio at [My Portfolio](http:// https://alabi12.github.io/Mobile_First/)
-* ✉️  You can contact me at [wolo22001@gmail.com / ralabi408@gmail.com](mailto:wolo22001@gmail.com / ralabi408@gmail.com)
+* ✉️  You can contact me at(mailto: wolo22001@gmail.com / ralabi408@gmail.com)
 * 🚀  I'm currently working on [ToDo APP](http:// https://alabi12.github.io/Set-up-project-with-webpack/)
 * 🤝  I'm open to collaborating on projects
 
