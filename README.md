@@ -41,6 +41,10 @@ I have been learning programming for the past two years after switching a career
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
+### Recent Projects
+Find the link to the projects i have buuld recently for your reference.
+-  To Do List. https://alabi12.github.io/To-Do-List/
+- Awesome Books.  https://alabi12.github.io/Awesome-Books-ES6/
 
 ### Socials
 
