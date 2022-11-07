@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I have been learning programming for the past two years after switching a career in Finance, Audit. After learning HTML, CSS and JavaScript, i found an interest to be a Software Developer.
+I have been learning programming for the past two years after switching a career in Finance, Audit. After learning HTML, CSS and JavaScript, i found an interest to be a Full Stack Developer.
 
 * 🌍  I'm based in Ghana, Accra
 * 🖥️  See my portfolio at [My Portfolio](http:// https://alabi12.github.io/Mobile_First/)
