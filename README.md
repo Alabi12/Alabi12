@@ -41,11 +41,6 @@ I have been learning programming for the past two years after switching a career
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-### Recent Projects
-Find the link to the projects i have buuld recently for your reference.
--  To Do List. This is a simple project that allow the user to develop the Todo List. The data is persisted in the local storage. This App was built using HTML, CSS, JavaScript. https://alabi12.github.io/To-Do-List/
-- Awesome Books. This is a project that takes in a new book by a user, store to the local storage and display on the browser. The user also has the opportunity to edit and delete the books stored. This App was built using HTML, CSS, JavaScrip. https://alabi12.github.io/Awesome-Books-ES6/
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Alabi12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/robert-alabi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@wolo_robert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
