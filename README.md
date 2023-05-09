@@ -25,8 +25,8 @@ I have been learning programming for the past two years after switching a career
 * 🌍  I'm based in Ghana, Accra.
 * 🖥️  See my portfolio at [My Portfolio](http:// https://alabi12.github.io/Mobile_First/)
 * ✉️  You can contact me at(mailto: wolo22001@gmail.com / ralabi408@gmail.com)
-* 🚀  I'm currently working on [ToDo APP](http:// https://alabi12.github.io/Set-up-project-with-webpack/)
-* 🤝  I'm open to collaborating on projects
+* 🚀  I’m currently working on management system app using rails and react.
+* 🤝  I'm open to collaborating on projects thats uses the react and rails language.
 
 ### Skills
 
